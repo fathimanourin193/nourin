@@ -14,7 +14,12 @@ export default function Home() {
           height={37}
           priority
         /> */}
-        <h1 className="text-4xl text-black">Fathima Nourin</h1>
+        <div>
+          <h1 className="text-4xl text-black">Fathima Nourin</h1>
+        </div>
+      </div>
+      <div>
+        <h2>from rajagiri</h2>
       </div>
     </main>
   );
